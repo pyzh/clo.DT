@@ -8,7 +8,7 @@ example:  # `/#`表示REPL
 
 hello world
 
-/# f/= log 你好{time/str/1} =/ # time/str/1-> yy-mm-dd hh:mm:ss
+/# f/= log 你好{lib time/str/1} =/ # time/str/1-> yy-mm-dd hh:mm:ss
 
 你好 2018-10-29 17:32
 
