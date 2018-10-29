@@ -1,15 +1,14 @@
 # clo.DT
 hand-writable programming notation, part of clo.core
 
-example:
+example:  # `/#`表示REPL
 
 ```
-
-#>hello world/= log
+/# hello world/= log
 
 hello world
 
-#>f/= log 你好{time/str/1} =/ # time/str/1-> yy-mm-dd hh:mm:ss
+/# f/= log 你好{time/str/1} =/ # time/str/1-> yy-mm-dd hh:mm:ss
 你好 2018-10-29 17:32
 
 ```
